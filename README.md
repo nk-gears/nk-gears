@@ -8,6 +8,13 @@
 📫 Reach Me via  Twitter : [@nirmal_kumar](https://twitter.com/nirmal_kumar)
 
 <!--START_SECTION:waka-->
+```text
+JavaScript   5 hrs 20 mins   ███████████▓░░░░░░░░░░░░░   47.20 % 
+Python       2 hrs 31 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.28 % 
+HTML         1 hr 17 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.46 % 
+YAML         1 hr 11 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.48 % 
+TypeScript   26 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
+```
 <!--END_SECTION:waka-->
 
 ![Nirmals's github stats align left](https://github-readme-stats.vercel.app/api?username=nk-gears&show_icons=true)
