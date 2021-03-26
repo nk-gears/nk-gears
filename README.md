@@ -7,6 +7,11 @@
 
 📫 Reach Me via  Twitter : [@nirmal_kumar](https://twitter.com/nirmal_kumar)
 
+![Nirmals's github stats align left](https://github-readme-stats.vercel.app/api?username=nk-gears&show_icons=true)
+
+
+📊 Weekly development breakdown
+
 <!--START_SECTION:waka-->
 ```text
 JavaScript   5 hrs 20 mins   ███████████▓░░░░░░░░░░░░░   47.20 % 
@@ -17,4 +22,4 @@ TypeScript   26 mins         █░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
-![Nirmals's github stats align left](https://github-readme-stats.vercel.app/api?username=nk-gears&show_icons=true)
+
