@@ -7,4 +7,7 @@
 
 📫 Reach Me via  Twitter : [@nirmal_kumar](https://twitter.com/nirmal_kumar)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ![Nirmals's github stats align left](https://github-readme-stats.vercel.app/api?username=nk-gears&show_icons=true)
