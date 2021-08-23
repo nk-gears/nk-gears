@@ -14,11 +14,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-Markdown           2 hrs 7 mins    ████████▒░░░░░░░░░░░░░░░░   33.09 % 
-YAML               1 hr 22 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.37 % 
-JSON               1 hr            ████░░░░░░░░░░░░░░░░░░░░░   15.69 % 
-JavaScript         38 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.93 % 
-reStructuredText   30 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.97 % 
+Markdown           2 hrs 7 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.68 % 
+JavaScript         1 hr 34 mins    █████░░░░░░░░░░░░░░░░░░░░   19.83 % 
+YAML               1 hr 22 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.27 % 
+JSON               1 hr 7 mins     ███▓░░░░░░░░░░░░░░░░░░░░░   14.08 % 
+reStructuredText   40 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
 ```
 <!--END_SECTION:waka-->
 
