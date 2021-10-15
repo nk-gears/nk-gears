@@ -10,6 +10,11 @@
 ![Nirmals's github stats align left](https://github-readme-stats.vercel.app/api?username=nk-gears&show_icons=true)
 
 
+📊 Summary
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nk-gears&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+
 📊 Weekly development breakdown
 
 <!--START_SECTION:waka-->
