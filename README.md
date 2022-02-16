@@ -20,6 +20,8 @@
 
 <!--START_SECTION:waka-->
 ```text
+Total: 7 hrs 52 mins
+
 Java         3 hrs 33 mins   ██████████▓░░░░░░░░░░░░░░   42.25 % 
 JavaScript   1 hr 23 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.58 % 
 JSON         1 hr 15 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.86 % 
