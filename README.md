@@ -20,13 +20,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Total: 7 hrs 52 mins
+Total: 11 hrs 47 mins
 
-Java         3 hrs 33 mins   ██████████▓░░░░░░░░░░░░░░   42.25 % 
-JavaScript   1 hr 23 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.58 % 
-JSON         1 hr 15 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.86 % 
-Other        33 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.69 % 
-XML          29 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.78 % 
+Java         4 hrs 3 mins    ████████░░░░░░░░░░░░░░░░░   32.38 % 
+JavaScript   2 hrs 22 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.88 % 
+YAML         1 hr 14 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.86 % 
+Bash         1 hr 11 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.48 % 
+Markdown     59 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 % 
 ```
 <!--END_SECTION:waka-->
 
