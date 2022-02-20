@@ -20,8 +20,6 @@
 
 <!--START_SECTION:waka-->
 ```text
-Total: 15 hrs 7 mins
-
 Java         4 hrs 3 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.55 % 
 YAML         3 hrs 32 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.29 % 
 JavaScript   2 hrs 14 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.12 % 
