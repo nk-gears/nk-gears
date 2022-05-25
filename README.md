@@ -10,6 +10,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nk-gears&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
+<a href="https://app.daily.dev/nirmal_kumar"><img src="https://api.daily.dev/devcards/a16cfcf02d384b16b41de71ce4d1d811.png?r=8ve" width="400" alt="Nirmal Kumar's Dev Card"/></a>
 
 📫 Reach Me via  Twitter : [@nirmal_kumar](https://twitter.com/nirmal_kumar)
 
