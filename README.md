@@ -22,11 +22,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-HTML               5 hrs 13 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.65 %
-reStructuredText   3 hrs 20 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.43 %
-XML                1 hr 52 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.24 %
-Markdown           1 hr 28 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.26 %
-Other              1 hr 27 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.15 %
+HTML               5 hrs 13 mins   ███████▒░░░░░░░░░░░░░░░░░   28.73 %
+reStructuredText   2 hrs 56 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.24 %
+XML                1 hr 39 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.11 %
+Markdown           1 hr 27 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 %
+Blazor             1 hr 19 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.30 %
+JavaScript         1 hr 17 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.10 %
 ```
 
 <!--END_SECTION:waka-->
