@@ -22,8 +22,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-reStructuredText   37 mins         ███████▓░░░░░░░░░░░░░░░░░   30.31 %
-Other              36 mins         ███████▒░░░░░░░░░░░░░░░░░   29.05 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
