@@ -22,7 +22,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-Other              1 hr 49 mins    █████▒░░░░░░░░░░░░░░░░░░░   20.79 %
+TypeScript         1 hr 34 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.78 %
+reStructuredText   1 hr 23 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.20 %
+Python             1 hr 14 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.87 %
+Vue.js             1 hr 14 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.87 %
+XML                1 hr 13 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.70 %
+JSON               1 hr 12 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.66 %
 ```
 
 <!--END_SECTION:waka-->
