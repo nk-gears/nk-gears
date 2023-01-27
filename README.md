@@ -22,10 +22,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-JSON               4 hrs 1 min     ██████▒░░░░░░░░░░░░░░░░░░   25.06 %
-JavaScript         2 hrs 12 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.75 %
-Blazor             2 hrs 10 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.49 %
-Other              1 hr 47 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.11 %
+JavaScript         5 hrs 47 mins   ████████░░░░░░░░░░░░░░░░░   31.46 %
+JSON               4 hrs 30 mins   ██████░░░░░░░░░░░░░░░░░░░   24.50 %
+Other              1 hr 42 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.29 %
 ```
 
 <!--END_SECTION:waka-->
