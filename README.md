@@ -22,12 +22,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript         6 hrs 35 mins   ███████▒░░░░░░░░░░░░░░░░░   29.61 %
-JavaScript         2 hrs 58 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.38 %
-Vue.js             2 hrs 49 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.68 %
-Docker             2 hrs 13 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.04 %
-YAML               2 hrs 10 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.79 %
-Other              1 hr 23 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.27 %
+TypeScript         8 hrs 32 mins   █████████▓░░░░░░░░░░░░░░░   39.30 %
+Vue.js             2 hrs 34 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.87 %
+Docker             2 hrs 9 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.91 %
+JavaScript         1 hr 48 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.31 %
+Bash               1 hr 21 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.27 %
+reStructuredText   1 hr 7 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.18 %
 ```
 
 <!--END_SECTION:waka-->
