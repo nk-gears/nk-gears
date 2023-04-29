@@ -22,12 +22,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-Vue.js             2 hrs 17 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.75 %
-TypeScript         1 hr 57 mins    █████░░░░░░░░░░░░░░░░░░░░   19.43 %
-Bash               1 hr 23 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.87 %
-reStructuredText   1 hr 12 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.94 %
-JavaScript         45 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 %
-Markdown           44 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 %
+Vue.js             2 hrs 17 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.92 %
+reStructuredText   2 hrs 4 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.88 %
+TypeScript         1 hr 57 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.86 %
+Bash               1 hr 23 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.75 %
+JavaScript         45 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.95 %
+Markdown           44 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.83 %
 ```
 
 <!--END_SECTION:waka-->
