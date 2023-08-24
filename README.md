@@ -22,11 +22,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript         4 hrs 50 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.39 %
-JSON               4 hrs 21 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.25 %
-C#                 3 hrs 19 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.65 %
-TypeScript         2 hrs 40 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.79 %
-HTML               2 hrs 2 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.04 %
+JSON               3 hrs 38 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.59 %
+JavaScript         3 hrs 19 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.10 %
+reStructuredText   2 hrs 52 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.94 %
+C#                 2 hrs 45 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.32 %
+TypeScript         2 hrs 38 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.79 %
 ```
 
 <!--END_SECTION:waka-->
