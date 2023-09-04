@@ -22,11 +22,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript         4 hrs 27 mins   ██████░░░░░░░░░░░░░░░░░░░   23.72 %
-reStructuredText   4 hrs 12 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.39 %
-JSON               2 hrs 40 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.25 %
-C#                 2 hrs 38 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.04 %
-Bash               1 hr 7 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.00 %
+reStructuredText   3 hrs 36 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.57 %
+C#                 2 hrs 38 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.80 %
+TypeScript         2 hrs 25 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.48 %
+JSON               2 hrs 19 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.88 %
+Bash               55 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.51 %
 ```
 
 <!--END_SECTION:waka-->
